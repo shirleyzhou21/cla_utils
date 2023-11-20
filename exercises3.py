@@ -95,6 +95,7 @@ def householder_qr(A):
 
 def householder_ls(A, b):
     """
+    
     Given a real mxn matrix A and an m dimensional vector b, find the
     least squares solution to Ax = b.
 
